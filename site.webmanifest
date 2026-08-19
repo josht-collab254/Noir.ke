@@ -1,8 +1,8 @@
 {
-  "name": "Noir Collective \u2014 Signature Scents",
+  "name": "Noir Collective — Signature Scents",
   "short_name": "NC",
-  "description": "Premium fragrance catalogue \u2014 discover your signature scent. Kenya-based, order via WhatsApp.",
-  "start_url": "/",
+  "description": "Premium fragrance catalogue — discover your signature scent. Kenya-based, order via WhatsApp.",
+  "start_url": "/Noir.ke/",
   "display": "standalone",
   "background_color": "#0b0a08",
   "theme_color": "#c9a15a",
@@ -23,5 +23,6 @@
       "sizes": "180x180",
       "type": "image/png"
     }
-  ]
+  ],
+  "scope": "/Noir.ke/"
 }
